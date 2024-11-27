@@ -28,7 +28,7 @@
 display: flex;
 justify-content: space-between;
 }
-.card__descriçao{
+.card__descricao{
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
@@ -36,17 +36,17 @@ justify-content: space-between;
 .botoes{
     display: flex;
 }
-.descriçao__titulo{
+.descricao__titulo{
     color: var(--laranja);
     font-weight: 700;
 }
-.descriçao__titulo-livro{
+.descricao__titulo-livro{
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
 }
-.descriçao__texto{
+.descricao__texto{
     font-size: 14px;
 }
 .botoes__ancora{
